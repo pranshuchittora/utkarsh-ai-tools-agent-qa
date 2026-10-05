@@ -126,6 +126,41 @@
     "free_alternatives": []
   },
   {
+    "name": "Ai Charter",
+    "tagline": "Universal AI Charter: plain-language governance principles and a public certific",
+    "website": "https://mrtinkz.github.io/ai-charter/",
+    "categories": [
+      "code",
+      "agents"
+    ],
+    "tags": [
+      "open-source",
+      "github",
+      "ai",
+      "ai-agent",
+      "ai-agents"
+    ],
+    "pricing": {
+      "has_free_tier": true,
+      "free_details": "Open source",
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": true,
+      "docs_url": "https://github.com/mrtinkz/ai-charter/blob/main/README.md",
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "ai-charter",
+    "logo_url": "https://logo.clearbit.com/mrtinkz.github.io",
+    "free_alternatives": []
+  },
+  {
     "name": "Ai Engineering From Scratch",
     "tagline": "Learn it. Build it. Ship it for others.",
     "website": "https://aiengineeringfromscratch.com",
@@ -533,6 +568,42 @@
     "free_alternatives": []
   },
   {
+    "name": "Awesome Jev Live",
+    "tagline": "Awesome Jev — evidence-graded index of TypeSafe System One: SDKs, MCP tools, age",
+    "website": "https://wh000wh000.github.io/awesome-jev-live/",
+    "categories": [
+      "llm",
+      "code",
+      "agents"
+    ],
+    "tags": [
+      "open-source",
+      "github",
+      "ai-agents",
+      "artificial-intelligence",
+      "awesome"
+    ],
+    "pricing": {
+      "has_free_tier": true,
+      "free_details": "Open source",
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": true,
+      "docs_url": "https://github.com/wh000wh000/awesome-jev-live/blob/main/README.md",
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "awesome-jev-live",
+    "logo_url": "https://logo.clearbit.com/wh000wh000.github.io",
+    "free_alternatives": []
+  },
+  {
     "name": "Awesome Typesafe Jev",
     "tagline": "A curated list of official resources and community projects for TypeSafe, System",
     "website": "https://abdelstark.github.io/awesome-typesafe-jev/",
@@ -823,14 +894,18 @@
     "tagline": "Deep recursive settlement networks (DRSNs) built from cortical columns that cont",
     "website": "https://floatingpragma.io/cadence/",
     "categories": [
-      "llm"
+      "llm",
+      "search"
     ],
     "tags": [
       "open-source",
       "github",
       "agi",
       "asi",
-      "celebral-cortex"
+      "celebral-cortex",
+      "brain-inspired",
+      "embodied-ai",
+      "equilibrium-networks"
     ],
     "pricing": {
       "has_free_tier": true,
@@ -1393,7 +1468,8 @@
       "code",
       "agents",
       "image",
-      "search"
+      "search",
+      "audio"
     ],
     "tags": [
       "tts",
@@ -1858,6 +1934,37 @@
     "free_tier_verified_date": "2025-01-01"
   },
   {
+    "name": "Glashütte Trash Clock",
+    "tagline": "A 30-minute pendulum clock made from trash",
+    "website": "https://niklasroy.com/gtc/",
+    "categories": [
+      "llm"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "glashtte-trash-clock",
+    "logo_url": "https://logo.clearbit.com/niklasroy.com",
+    "free_alternatives": []
+  },
+  {
     "id": "openai-gpt4o",
     "name": "GPT-4o",
     "tagline": "OpenAI's flagship multimodal model for text, vision, and audio",
@@ -2077,6 +2184,38 @@
     "free_alternatives": []
   },
   {
+    "name": "HN.watch",
+    "tagline": "Videos of all Hacker News posts",
+    "website": "https://hn.watch/",
+    "categories": [
+      "code",
+      "video"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "hnwatch",
+    "logo_url": "https://logo.clearbit.com/hn.watch",
+    "free_alternatives": []
+  },
+  {
     "id": "huggingchat",
     "name": "HuggingChat",
     "tagline": "Free chat interface running open-source models from Hugging Face",
@@ -2211,7 +2350,9 @@
     "tagline": "reinventing the wheel with another wheel",
     "website": "https://news.ycombinator.com/item?id=49823332",
     "categories": [
-      "llm"
+      "llm",
+      "code",
+      "agents"
     ],
     "tags": [
       "hacker-news",
@@ -2369,6 +2510,37 @@
     "status": "active",
     "id": "laya-mlx",
     "logo_url": "https://logo.clearbit.com/pypi.org",
+    "free_alternatives": []
+  },
+  {
+    "name": "Ledge.sh",
+    "tagline": "Runnable Markdown Notes",
+    "website": "https://ledge.sh",
+    "categories": [
+      "productivity"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "ledgesh",
+    "logo_url": "https://logo.clearbit.com/ledge.sh",
     "free_alternatives": []
   },
   {
@@ -2963,6 +3135,69 @@
     "free_tier_verified_date": "2025-01-01"
   },
   {
+    "name": "NSL",
+    "tagline": "WSL for Linux",
+    "website": "https://frostyard.github.io/nsl/",
+    "categories": [
+      "llm"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "nsl",
+    "logo_url": "https://logo.clearbit.com/frostyard.github.io",
+    "free_alternatives": []
+  },
+  {
+    "name": "Offrun",
+    "tagline": "manage every coding agent from one workspace",
+    "website": "https://offrun.dev/",
+    "categories": [
+      "code",
+      "agents"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "offrun",
+    "logo_url": "https://logo.clearbit.com/offrun.dev",
+    "free_alternatives": []
+  },
+  {
     "name": "Open",
     "tagline": "Source eInk Bike Computer",
     "website": "https://opentrailpaper.com",
@@ -3028,6 +3263,37 @@
     ],
     "status": "active",
     "free_tier_verified_date": "2026-08-20"
+  },
+  {
+    "name": "OpenAPPA",
+    "tagline": "open-source deterministic guardrails that don't break agents",
+    "website": "https://www.openappa.com/",
+    "categories": [
+      "agents"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "openappa",
+    "logo_url": "https://logo.clearbit.com/www.openappa.com",
+    "free_alternatives": []
   },
   {
     "name": "Openflow",
@@ -3170,6 +3436,68 @@
     "free_tier_verified_date": "2025-01-01"
   },
   {
+    "name": "Pac",
+    "tagline": "Bench – How well can models one-shot a Pac-Man game?",
+    "website": "https://jonclegg.github.io/pacman-bakeoff/",
+    "categories": [
+      "llm"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "pac",
+    "logo_url": "https://logo.clearbit.com/jonclegg.github.io",
+    "free_alternatives": []
+  },
+  {
+    "name": "Parrot",
+    "tagline": "Open-Source Smart Meeting Recorder with Co-Pilot on Mac",
+    "website": "https://openparrot.app",
+    "categories": [
+      "image"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "parrot",
+    "logo_url": "https://logo.clearbit.com/openparrot.app",
+    "free_alternatives": []
+  },
+  {
     "name": "Pelican",
     "tagline": "bicycle alternatives",
     "website": "https://gally.net/temp/20260914pelican-alternatives/index.html",
@@ -3303,6 +3631,38 @@
     "free_alternatives": [],
     "status": "active",
     "free_tier_verified_date": "2025-01-01"
+  },
+  {
+    "name": "Pi pod",
+    "tagline": "Run your pi coding agent in sandboxes on your own server",
+    "website": "https://pipod.dev/",
+    "categories": [
+      "code",
+      "agents"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "pi-pod",
+    "logo_url": "https://logo.clearbit.com/pipod.dev",
+    "free_alternatives": []
   },
   {
     "id": "pika-labs",
@@ -3595,6 +3955,37 @@
     "status": "active",
     "id": "restarted",
     "logo_url": "https://logo.clearbit.com/restarted.io",
+    "free_alternatives": []
+  },
+  {
+    "name": "Rhun, an open",
+    "tagline": "source code editor written in assembly",
+    "website": "https://rhun.app/",
+    "categories": [
+      "code"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "rhun-an-open",
+    "logo_url": "https://logo.clearbit.com/rhun.app",
     "free_alternatives": []
   },
   {
@@ -4053,6 +4444,73 @@
     "free_alternatives": []
   },
   {
+    "name": "Strands Decider",
+    "tagline": "A small, fast decision model, or system one model, for agentic workflows. Pick b",
+    "website": "https://strandsagents.com/docs/labs/",
+    "categories": [
+      "llm",
+      "code",
+      "agents"
+    ],
+    "tags": [
+      "open-source",
+      "github",
+      "ai",
+      "machine-learning",
+      "natural-language-understanding"
+    ],
+    "pricing": {
+      "has_free_tier": true,
+      "free_details": "Open source",
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": true,
+      "docs_url": "https://github.com/strands-labs/strands-decider/blob/main/README.md",
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "strands-decider",
+    "logo_url": "https://logo.clearbit.com/strandsagents.com",
+    "free_alternatives": []
+  },
+  {
+    "name": "Strata",
+    "tagline": "an expressive semantic layer that can say no to your LLM",
+    "website": "https://strata.do/",
+    "categories": [
+      "llm"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "strata",
+    "logo_url": "https://logo.clearbit.com/strata.do",
+    "free_alternatives": []
+  },
+  {
     "name": "Sunk Cost",
     "tagline": "How long until a local LLM rig pays for itself?",
     "website": "https://sunkcost.ai/",
@@ -4349,6 +4807,37 @@
     "status": "active",
     "id": "the-load",
     "logo_url": "https://logo.clearbit.com/louisabraham.github.io",
+    "free_alternatives": []
+  },
+  {
+    "name": "Thoreau BASIC",
+    "tagline": "What if BASIC hadn't gone out of fashion?",
+    "website": "https://thoreaubasic.com/",
+    "categories": [
+      "llm"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "thoreau-basic",
+    "logo_url": "https://logo.clearbit.com/thoreaubasic.com",
     "free_alternatives": []
   },
   {
