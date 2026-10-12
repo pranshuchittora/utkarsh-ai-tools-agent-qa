@@ -126,6 +126,37 @@
     "free_alternatives": []
   },
   {
+    "name": "Agent.reviews",
+    "tagline": "Where AI agents read and write reviews on tools",
+    "website": "https://agent.reviews/",
+    "categories": [
+      "agents"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "agentreviews",
+    "logo_url": "https://logo.clearbit.com/agent.reviews",
+    "free_alternatives": []
+  },
+  {
     "name": "Ai Charter",
     "tagline": "Universal AI Charter: plain-language governance principles and a public certific",
     "website": "https://mrtinkz.github.io/ai-charter/",
@@ -1497,7 +1528,12 @@
       "jev",
       "academic-writing",
       "claude-code",
-      "codex-skills"
+      "codex-skills",
+      "ai-agent",
+      "ai-agents",
+      "ai-infrastructure",
+      "backtesting",
+      "data-provenance"
     ],
     "pricing": {
       "has_free_tier": true,
@@ -2087,6 +2123,37 @@
     "free_tier_verified_date": "2025-01-01"
   },
   {
+    "name": "gtlds.fyi",
+    "tagline": "All the proposed new gTLDs",
+    "website": "https://gtlds.fyi/",
+    "categories": [
+      "llm"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "gtldsfyi",
+    "logo_url": "https://logo.clearbit.com/gtlds.fyi",
+    "free_alternatives": []
+  },
+  {
     "name": "Hacker News, without AI",
     "tagline": "Hacker News, without AI - AI tool",
     "website": "https://hcker.news/?ai=exclude",
@@ -2323,17 +2390,22 @@
     ],
     "tags": [
       "hacker-news",
-      "new-launch"
+      "new-launch",
+      "open-source",
+      "github",
+      "ai-benchmark",
+      "benchmark-heaven",
+      "calibration"
     ],
     "pricing": {
-      "has_free_tier": false,
-      "free_details": null,
+      "has_free_tier": true,
+      "free_details": "Open source",
       "paid_starts_at": null,
       "pricing_url": null
     },
     "api": {
-      "available": false,
-      "docs_url": null,
+      "available": true,
+      "docs_url": "https://github.com/fstandhartinger/jevbench/blob/main/README.md",
       "key_url": null,
       "base_url": null,
       "rate_limits": null,
@@ -2376,6 +2448,37 @@
     "status": "active",
     "id": "jevgpt",
     "logo_url": "https://logo.clearbit.com/news.ycombinator.com",
+    "free_alternatives": []
+  },
+  {
+    "name": "Jevman",
+    "tagline": "AI decision models play Pac-Man",
+    "website": "https://opper.ai/jevman-benchmark/",
+    "categories": [
+      "llm"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "jevman",
+    "logo_url": "https://logo.clearbit.com/opper.ai",
     "free_alternatives": []
   },
   {
@@ -2672,6 +2775,37 @@
     "status": "active",
     "id": "loss-a-tiny-satire-about-ai-progress",
     "logo_url": "https://logo.clearbit.com/workatloss.com",
+    "free_alternatives": []
+  },
+  {
+    "name": "MailAccess",
+    "tagline": "the true Email OSINT framework",
+    "website": "https://mailaccess.pro",
+    "categories": [
+      "productivity"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "mailaccess",
+    "logo_url": "https://logo.clearbit.com/mailaccess.pro",
     "free_alternatives": []
   },
   {
@@ -3731,6 +3865,68 @@
     ],
     "status": "active",
     "free_tier_verified_date": "2025-01-01"
+  },
+  {
+    "name": "Pocketty",
+    "tagline": "iPhone SSH terminal that pings you when an agent is blocked",
+    "website": "https://pocketty.app/",
+    "categories": [
+      "agents"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "pocketty",
+    "logo_url": "https://logo.clearbit.com/pocketty.app",
+    "free_alternatives": []
+  },
+  {
+    "name": "Proton Drive for Linux",
+    "tagline": "Proton Drive for Linux - AI tool",
+    "website": "https://oss.lsantos.dev/proton-drive-linux-fs/",
+    "categories": [
+      "llm"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "proton-drive-for-linux",
+    "logo_url": "https://logo.clearbit.com/oss.lsantos.dev",
+    "free_alternatives": []
   },
   {
     "name": "Pushie",
@@ -5200,6 +5396,37 @@
     "free_tier_verified_date": "2025-01-01"
   },
   {
+    "name": "WallHop",
+    "tagline": "12ft.io is gone, so I built a replacement",
+    "website": "https://wallhop.io/",
+    "categories": [
+      "llm"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "wallhop",
+    "logo_url": "https://logo.clearbit.com/wallhop.io",
+    "free_alternatives": []
+  },
+  {
     "name": "We built a multi",
     "tagline": "agent research hub. The waitlist is a reverse-CAPTCHA",
     "website": "https://enlidea.com",
@@ -5330,6 +5557,37 @@
     "free_alternatives": [],
     "status": "active",
     "free_tier_verified_date": "2026-08-20"
+  },
+  {
+    "name": "Wordminos",
+    "tagline": "Crosswords Meet Dominos",
+    "website": "https://wordminos.com/play-en.html",
+    "categories": [
+      "llm"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "wordminos",
+    "logo_url": "https://logo.clearbit.com/wordminos.com",
+    "free_alternatives": []
   },
   {
     "name": "Worldmodels101",
