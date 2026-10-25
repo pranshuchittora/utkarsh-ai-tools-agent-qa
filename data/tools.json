@@ -126,22 +126,19 @@
     "free_alternatives": []
   },
   {
-    "name": "Agent QA",
-    "tagline": "AI web and mobile regression tests; configured provider costs may apply.",
-    "website": "https://vostride.com",
+    "name": "Agent.reviews",
+    "tagline": "Where AI agents read and write reviews on tools",
+    "website": "https://agent.reviews/",
     "categories": [
-      "code",
       "agents"
     ],
     "tags": [
-      "testing",
-      "cli",
-      "yaml",
-      "mcp"
+      "hacker-news",
+      "new-launch"
     ],
     "pricing": {
-      "has_free_tier": true,
-      "free_details": "Software is currently free to use. Configure model, browser or device services separately; their charges may apply.",
+      "has_free_tier": false,
+      "free_details": null,
       "paid_starts_at": null,
       "pricing_url": null
     },
@@ -155,10 +152,44 @@
       "auth_method": null
     },
     "status": "active",
-    "id": "agent-qa",
-    "logo_url": null,
-    "free_alternatives": [],
-    "free_tier_verified_date": null
+    "id": "agentreviews",
+    "logo_url": "https://logo.clearbit.com/agent.reviews",
+    "free_alternatives": []
+  },
+  {
+    "name": "Ai Charter",
+    "tagline": "Universal AI Charter: plain-language governance principles and a public certific",
+    "website": "https://mrtinkz.github.io/ai-charter/",
+    "categories": [
+      "code",
+      "agents"
+    ],
+    "tags": [
+      "open-source",
+      "github",
+      "ai",
+      "ai-agent",
+      "ai-agents"
+    ],
+    "pricing": {
+      "has_free_tier": true,
+      "free_details": "Open source",
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": true,
+      "docs_url": "https://github.com/mrtinkz/ai-charter/blob/main/README.md",
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "ai-charter",
+    "logo_url": "https://logo.clearbit.com/mrtinkz.github.io",
+    "free_alternatives": []
   },
   {
     "name": "Ai Engineering From Scratch",
@@ -568,6 +599,42 @@
     "free_alternatives": []
   },
   {
+    "name": "Awesome Jev Live",
+    "tagline": "Awesome Jev — evidence-graded index of TypeSafe System One: SDKs, MCP tools, age",
+    "website": "https://wh000wh000.github.io/awesome-jev-live/",
+    "categories": [
+      "llm",
+      "code",
+      "agents"
+    ],
+    "tags": [
+      "open-source",
+      "github",
+      "ai-agents",
+      "artificial-intelligence",
+      "awesome"
+    ],
+    "pricing": {
+      "has_free_tier": true,
+      "free_details": "Open source",
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": true,
+      "docs_url": "https://github.com/wh000wh000/awesome-jev-live/blob/main/README.md",
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "awesome-jev-live",
+    "logo_url": "https://logo.clearbit.com/wh000wh000.github.io",
+    "free_alternatives": []
+  },
+  {
     "name": "Awesome Typesafe Jev",
     "tagline": "A curated list of official resources and community projects for TypeSafe, System",
     "website": "https://abdelstark.github.io/awesome-typesafe-jev/",
@@ -858,14 +925,18 @@
     "tagline": "Deep recursive settlement networks (DRSNs) built from cortical columns that cont",
     "website": "https://floatingpragma.io/cadence/",
     "categories": [
-      "llm"
+      "llm",
+      "search"
     ],
     "tags": [
       "open-source",
       "github",
       "agi",
       "asi",
-      "celebral-cortex"
+      "celebral-cortex",
+      "brain-inspired",
+      "embodied-ai",
+      "equilibrium-networks"
     ],
     "pricing": {
       "has_free_tier": true,
@@ -1428,7 +1499,8 @@
       "code",
       "agents",
       "image",
-      "search"
+      "search",
+      "audio"
     ],
     "tags": [
       "tts",
@@ -1456,7 +1528,13 @@
       "jev",
       "academic-writing",
       "claude-code",
-      "codex-skills"
+      "codex-skills",
+      "ai-agent",
+      "ai-agents",
+      "ai-infrastructure",
+      "backtesting",
+      "data-provenance",
+      "ai-education"
     ],
     "pricing": {
       "has_free_tier": true,
@@ -1583,6 +1661,37 @@
     "free_tier_verified_date": "2025-01-01"
   },
   {
+    "name": "Fakeipedia",
+    "tagline": "Wikipedia for worlds that don't exist",
+    "website": "https://fakeipedia.org",
+    "categories": [
+      "llm"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "fakeipedia",
+    "logo_url": "https://logo.clearbit.com/fakeipedia.org",
+    "free_alternatives": []
+  },
+  {
     "id": "fal-ai",
     "name": "fal.ai",
     "tagline": "Fast serverless API for running image, video, and audio AI models",
@@ -1616,6 +1725,40 @@
     "free_alternatives": [],
     "status": "active",
     "free_tier_verified_date": "2025-01-01"
+  },
+  {
+    "name": "Flexray",
+    "tagline": "FleXray: Universal Clinical X-ray Segmentation",
+    "website": "https://flexray.csail.mit.edu/",
+    "categories": [
+      "llm"
+    ],
+    "tags": [
+      "open-source",
+      "github",
+      "ai",
+      "computer-vision",
+      "machine-learning"
+    ],
+    "pricing": {
+      "has_free_tier": true,
+      "free_details": "Open source",
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": true,
+      "docs_url": "https://github.com/VictorButoi/FleXray/blob/main/README.md",
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "flexray",
+    "logo_url": "https://logo.clearbit.com/flexray.csail.mit.edu",
+    "free_alternatives": []
   },
   {
     "name": "Flight",
@@ -1782,6 +1925,37 @@
     "free_tier_verified_date": "2025-01-01"
   },
   {
+    "name": "Gemini 4 Argon plays StarCraft",
+    "tagline": "Gemini 4 Argon plays StarCraft - AI tool",
+    "website": "https://starskirmish.com/bench/v0-2/",
+    "categories": [
+      "llm"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "gemini-4-argon-plays-starcraft",
+    "logo_url": "https://logo.clearbit.com/starskirmish.com",
+    "free_alternatives": []
+  },
+  {
     "name": "GET Together",
     "tagline": "A social network where you don't need POST to Post",
     "website": "https://gettogether.dev",
@@ -1891,6 +2065,37 @@
     ],
     "status": "active",
     "free_tier_verified_date": "2025-01-01"
+  },
+  {
+    "name": "Glashütte Trash Clock",
+    "tagline": "A 30-minute pendulum clock made from trash",
+    "website": "https://niklasroy.com/gtc/",
+    "categories": [
+      "llm"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "glashtte-trash-clock",
+    "logo_url": "https://logo.clearbit.com/niklasroy.com",
+    "free_alternatives": []
   },
   {
     "id": "openai-gpt4o",
@@ -2015,6 +2220,37 @@
     "free_tier_verified_date": "2025-01-01"
   },
   {
+    "name": "gtlds.fyi",
+    "tagline": "All the proposed new gTLDs",
+    "website": "https://gtlds.fyi/",
+    "categories": [
+      "llm"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "gtldsfyi",
+    "logo_url": "https://logo.clearbit.com/gtlds.fyi",
+    "free_alternatives": []
+  },
+  {
     "name": "Hacker News, without AI",
     "tagline": "Hacker News, without AI - AI tool",
     "website": "https://hcker.news/?ai=exclude",
@@ -2081,6 +2317,37 @@
     "free_tier_verified_date": "2025-01-01"
   },
   {
+    "name": "High",
+    "tagline": "quality duck audio synthesizer",
+    "website": "https://celphase.github.io/duck-pond/",
+    "categories": [
+      "audio"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "high",
+    "logo_url": "https://logo.clearbit.com/celphase.github.io",
+    "free_alternatives": []
+  },
+  {
     "name": "HN Match Maker",
     "tagline": "Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
     "website": "https://hnmatchmaker.com/",
@@ -2109,6 +2376,38 @@
     "status": "active",
     "id": "hn-match-maker",
     "logo_url": "https://logo.clearbit.com/hnmatchmaker.com",
+    "free_alternatives": []
+  },
+  {
+    "name": "HN.watch",
+    "tagline": "Videos of all Hacker News posts",
+    "website": "https://hn.watch/",
+    "categories": [
+      "code",
+      "video"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "hnwatch",
+    "logo_url": "https://logo.clearbit.com/hn.watch",
     "free_alternatives": []
   },
   {
@@ -2180,6 +2479,68 @@
     "free_tier_verified_date": "2025-01-01"
   },
   {
+    "name": "Indigene",
+    "tagline": "Native plants for where you stand",
+    "website": "https://indigene.app/",
+    "categories": [
+      "llm"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "indigene",
+    "logo_url": "https://logo.clearbit.com/indigene.app",
+    "free_alternatives": []
+  },
+  {
+    "name": "Ito",
+    "tagline": "Build Terminal UIs in Lua",
+    "website": "https://uji.sh/ito/",
+    "categories": [
+      "llm"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "ito",
+    "logo_url": "https://logo.clearbit.com/uji.sh",
+    "free_alternatives": []
+  },
+  {
     "name": "Jev Plays Pokémon Red",
     "tagline": "Jev Plays Pokémon Red - AI tool",
     "website": "https://jev-pokemon.vercel.app/",
@@ -2219,17 +2580,22 @@
     ],
     "tags": [
       "hacker-news",
-      "new-launch"
+      "new-launch",
+      "open-source",
+      "github",
+      "ai-benchmark",
+      "benchmark-heaven",
+      "calibration"
     ],
     "pricing": {
-      "has_free_tier": false,
-      "free_details": null,
+      "has_free_tier": true,
+      "free_details": "Open source",
       "paid_starts_at": null,
       "pricing_url": null
     },
     "api": {
-      "available": false,
-      "docs_url": null,
+      "available": true,
+      "docs_url": "https://github.com/fstandhartinger/jevbench/blob/main/README.md",
       "key_url": null,
       "base_url": null,
       "rate_limits": null,
@@ -2246,7 +2612,9 @@
     "tagline": "reinventing the wheel with another wheel",
     "website": "https://news.ycombinator.com/item?id=49823332",
     "categories": [
-      "llm"
+      "llm",
+      "code",
+      "agents"
     ],
     "tags": [
       "hacker-news",
@@ -2270,6 +2638,37 @@
     "status": "active",
     "id": "jevgpt",
     "logo_url": "https://logo.clearbit.com/news.ycombinator.com",
+    "free_alternatives": []
+  },
+  {
+    "name": "Jevman",
+    "tagline": "AI decision models play Pac-Man",
+    "website": "https://opper.ai/jevman-benchmark/",
+    "categories": [
+      "llm"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "jevman",
+    "logo_url": "https://logo.clearbit.com/opper.ai",
     "free_alternatives": []
   },
   {
@@ -2407,6 +2806,37 @@
     "free_alternatives": []
   },
   {
+    "name": "Ledge.sh",
+    "tagline": "Runnable Markdown Notes",
+    "website": "https://ledge.sh",
+    "categories": [
+      "productivity"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "ledgesh",
+    "logo_url": "https://logo.clearbit.com/ledge.sh",
+    "free_alternatives": []
+  },
+  {
     "id": "leonardo-ai",
     "name": "Leonardo.AI",
     "tagline": "AI image platform with fine-tuned models for game art, portraits, and design",
@@ -2507,6 +2937,37 @@
     "free_alternatives": []
   },
   {
+    "name": "Llmspeed",
+    "tagline": "feel how fast a local LLM runs before you buy the hardware",
+    "website": "https://llmspeed.dev/",
+    "categories": [
+      "llm"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "llmspeed",
+    "logo_url": "https://logo.clearbit.com/llmspeed.dev",
+    "free_alternatives": []
+  },
+  {
     "name": "Loss. a tiny satire about AI progress",
     "tagline": "Loss. a tiny satire about AI progress - AI tool",
     "website": "https://workatloss.com/",
@@ -2538,6 +2999,37 @@
     "free_alternatives": []
   },
   {
+    "name": "MailAccess",
+    "tagline": "the true Email OSINT framework",
+    "website": "https://mailaccess.pro",
+    "categories": [
+      "productivity"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "mailaccess",
+    "logo_url": "https://logo.clearbit.com/mailaccess.pro",
+    "free_alternatives": []
+  },
+  {
     "name": "Markdown Viewer and Editor",
     "tagline": "Markdown Viewer and Editor - AI tool",
     "website": "https://kingsbridge-consultancy.com/md-viewer/",
@@ -2566,6 +3058,37 @@
     "status": "active",
     "id": "markdown-viewer-and-editor",
     "logo_url": "https://logo.clearbit.com/kingsbridge-consultancy.com",
+    "free_alternatives": []
+  },
+  {
+    "name": "MemorySync",
+    "tagline": "Memory for AI Agents",
+    "website": "https://memorysync.io/try",
+    "categories": [
+      "agents"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "memorysync",
+    "logo_url": "https://logo.clearbit.com/memorysync.io",
     "free_alternatives": []
   },
   {
@@ -2998,6 +3521,69 @@
     "free_tier_verified_date": "2025-01-01"
   },
   {
+    "name": "NSL",
+    "tagline": "WSL for Linux",
+    "website": "https://frostyard.github.io/nsl/",
+    "categories": [
+      "llm"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "nsl",
+    "logo_url": "https://logo.clearbit.com/frostyard.github.io",
+    "free_alternatives": []
+  },
+  {
+    "name": "Offrun",
+    "tagline": "manage every coding agent from one workspace",
+    "website": "https://offrun.dev/",
+    "categories": [
+      "code",
+      "agents"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "offrun",
+    "logo_url": "https://logo.clearbit.com/offrun.dev",
+    "free_alternatives": []
+  },
+  {
     "name": "Open",
     "tagline": "Source eInk Bike Computer",
     "website": "https://opentrailpaper.com",
@@ -3063,6 +3649,37 @@
     ],
     "status": "active",
     "free_tier_verified_date": "2026-08-20"
+  },
+  {
+    "name": "OpenAPPA",
+    "tagline": "open-source deterministic guardrails that don't break agents",
+    "website": "https://www.openappa.com/",
+    "categories": [
+      "agents"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "openappa",
+    "logo_url": "https://logo.clearbit.com/www.openappa.com",
+    "free_alternatives": []
   },
   {
     "name": "Openflow",
@@ -3205,6 +3822,99 @@
     "free_tier_verified_date": "2025-01-01"
   },
   {
+    "name": "Pac",
+    "tagline": "Bench – How well can models one-shot a Pac-Man game?",
+    "website": "https://jonclegg.github.io/pacman-bakeoff/",
+    "categories": [
+      "llm"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "pac",
+    "logo_url": "https://logo.clearbit.com/jonclegg.github.io",
+    "free_alternatives": []
+  },
+  {
+    "name": "Parrot",
+    "tagline": "Open-Source Smart Meeting Recorder with Co-Pilot on Mac",
+    "website": "https://openparrot.app",
+    "categories": [
+      "image"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "parrot",
+    "logo_url": "https://logo.clearbit.com/openparrot.app",
+    "free_alternatives": []
+  },
+  {
+    "name": "Parsimony",
+    "tagline": "an open-source benchmark for how much code AI models add",
+    "website": "https://parsimony.lasu.dev/",
+    "categories": [
+      "code"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "parsimony",
+    "logo_url": "https://logo.clearbit.com/parsimony.lasu.dev",
+    "free_alternatives": []
+  },
+  {
     "name": "Pelican",
     "tagline": "bicycle alternatives",
     "website": "https://gally.net/temp/20260914pelican-alternatives/index.html",
@@ -3274,6 +3984,37 @@
     "free_tier_verified_date": "2025-01-01"
   },
   {
+    "name": "Petal, open",
+    "tagline": "source CoScreen/ScreenHero finally free",
+    "website": "https://petal.live/",
+    "categories": [
+      "llm"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "petal-open",
+    "logo_url": "https://logo.clearbit.com/petal.live",
+    "free_alternatives": []
+  },
+  {
     "name": "PhAIL",
     "tagline": "Real-robot benchmark for AI models",
     "website": "https://phail.ai",
@@ -3338,6 +4079,38 @@
     "free_alternatives": [],
     "status": "active",
     "free_tier_verified_date": "2025-01-01"
+  },
+  {
+    "name": "Pi pod",
+    "tagline": "Run your pi coding agent in sandboxes on your own server",
+    "website": "https://pipod.dev/",
+    "categories": [
+      "code",
+      "agents"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "pi-pod",
+    "logo_url": "https://logo.clearbit.com/pipod.dev",
+    "free_alternatives": []
   },
   {
     "id": "pika-labs",
@@ -3408,6 +4181,99 @@
     "free_tier_verified_date": "2025-01-01"
   },
   {
+    "name": "Pocketty",
+    "tagline": "iPhone SSH terminal that pings you when an agent is blocked",
+    "website": "https://pocketty.app/",
+    "categories": [
+      "agents"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "pocketty",
+    "logo_url": "https://logo.clearbit.com/pocketty.app",
+    "free_alternatives": []
+  },
+  {
+    "name": "Proa",
+    "tagline": "A Rust web framework with fast SSR and multi-target rendering",
+    "website": "https://proa.so/",
+    "categories": [
+      "llm"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "proa",
+    "logo_url": "https://logo.clearbit.com/proa.so",
+    "free_alternatives": []
+  },
+  {
+    "name": "Proton Drive for Linux",
+    "tagline": "Proton Drive for Linux - AI tool",
+    "website": "https://oss.lsantos.dev/proton-drive-linux-fs/",
+    "categories": [
+      "llm"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "proton-drive-for-linux",
+    "logo_url": "https://logo.clearbit.com/oss.lsantos.dev",
+    "free_alternatives": []
+  },
+  {
     "name": "Pushie",
     "tagline": "Get notified with a simple webhook",
     "website": "https://pushie.net",
@@ -3467,6 +4333,37 @@
     "status": "active",
     "id": "radius",
     "logo_url": "https://logo.clearbit.com/radius.to",
+    "free_alternatives": []
+  },
+  {
+    "name": "Ranet3",
+    "tagline": "High performance policy routed IPsec mesh SD-WAN",
+    "website": "https://ranet3.com/",
+    "categories": [
+      "llm"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "ranet3",
+    "logo_url": "https://logo.clearbit.com/ranet3.com",
     "free_alternatives": []
   },
   {
@@ -3633,6 +4530,37 @@
     "free_alternatives": []
   },
   {
+    "name": "Rhun, an open",
+    "tagline": "source code editor written in assembly",
+    "website": "https://rhun.app/",
+    "categories": [
+      "code"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "rhun-an-open",
+    "logo_url": "https://logo.clearbit.com/rhun.app",
+    "free_alternatives": []
+  },
+  {
     "name": "Rickub",
     "tagline": "The Smartest Git in the Universe",
     "website": "https://rickub.com/",
@@ -3661,6 +4589,38 @@
     "status": "active",
     "id": "rickub",
     "logo_url": "https://logo.clearbit.com/rickub.com",
+    "free_alternatives": []
+  },
+  {
+    "name": "rStation",
+    "tagline": "A shared research lab for your AI agents",
+    "website": "https://rstation.ai/",
+    "categories": [
+      "search",
+      "agents"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "rstation",
+    "logo_url": "https://logo.clearbit.com/rstation.ai",
     "free_alternatives": []
   },
   {
@@ -4023,6 +4983,37 @@
     "free_alternatives": []
   },
   {
+    "name": "Sphinx",
+    "tagline": "A hook that quizzes you on your AI's code before shipping",
+    "website": "https://sphinx-six-theta.vercel.app/",
+    "categories": [
+      "code"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "sphinx",
+    "logo_url": "https://logo.clearbit.com/sphinx-six-theta.vercel.app",
+    "free_alternatives": []
+  },
+  {
     "id": "stable-diffusion",
     "name": "Stable Diffusion",
     "tagline": "Open-source image generation model — run locally or via hosted APIs",
@@ -4085,6 +5076,104 @@
     "status": "active",
     "id": "stackdome",
     "logo_url": "https://logo.clearbit.com/stackdome.com",
+    "free_alternatives": []
+  },
+  {
+    "name": "Stoke Money",
+    "tagline": "Personal finance app built around a cash flow forecast",
+    "website": "https://stoke.money",
+    "categories": [
+      "llm"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "stoke-money",
+    "logo_url": "https://logo.clearbit.com/stoke.money",
+    "free_alternatives": []
+  },
+  {
+    "name": "Strands Decider",
+    "tagline": "A small, fast decision model, or system one model, for agentic workflows. Pick b",
+    "website": "https://strandsagents.com/docs/labs/",
+    "categories": [
+      "llm",
+      "code",
+      "agents"
+    ],
+    "tags": [
+      "open-source",
+      "github",
+      "ai",
+      "machine-learning",
+      "natural-language-understanding"
+    ],
+    "pricing": {
+      "has_free_tier": true,
+      "free_details": "Open source",
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": true,
+      "docs_url": "https://github.com/strands-labs/strands-decider/blob/main/README.md",
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "strands-decider",
+    "logo_url": "https://logo.clearbit.com/strandsagents.com",
+    "free_alternatives": []
+  },
+  {
+    "name": "Strata",
+    "tagline": "an expressive semantic layer that can say no to your LLM",
+    "website": "https://strata.do/",
+    "categories": [
+      "llm"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "strata",
+    "logo_url": "https://logo.clearbit.com/strata.do",
     "free_alternatives": []
   },
   {
@@ -4387,6 +5476,68 @@
     "free_alternatives": []
   },
   {
+    "name": "Things to Do API",
+    "tagline": "Things to Do API - AI tool",
+    "website": "https://thingstodoapi.com/",
+    "categories": [
+      "llm"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "things-to-do-api",
+    "logo_url": "https://logo.clearbit.com/thingstodoapi.com",
+    "free_alternatives": []
+  },
+  {
+    "name": "Thoreau BASIC",
+    "tagline": "What if BASIC hadn't gone out of fashion?",
+    "website": "https://thoreaubasic.com/",
+    "categories": [
+      "llm"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "thoreau-basic",
+    "logo_url": "https://logo.clearbit.com/thoreaubasic.com",
+    "free_alternatives": []
+  },
+  {
     "name": "ThoughtDAG",
     "tagline": "An editable context graph for LLM conversations",
     "website": "https://chenxiachan.github.io/thoughtdag/",
@@ -4619,6 +5770,37 @@
     "free_alternatives": []
   },
   {
+    "name": "Use your OpenAI subscription to create audiobooks",
+    "tagline": "Use your OpenAI subscription to create audiobooks - AI tool",
+    "website": "https://pdftomp3.com/connect-ai/",
+    "categories": [
+      "audio"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "use-your-openai-subscription-to-create-audiobooks",
+    "logo_url": "https://logo.clearbit.com/pdftomp3.com",
+    "free_alternatives": []
+  },
+  {
     "name": "Vellum, the best diagram editor you'll ever use",
     "tagline": "Vellum, the best diagram editor you'll ever use - AI tool",
     "website": "https://vellum.blueprintr.io",
@@ -4744,6 +5926,37 @@
     "free_alternatives": [],
     "status": "active",
     "free_tier_verified_date": "2025-01-01"
+  },
+  {
+    "name": "WallHop",
+    "tagline": "12ft.io is gone, so I built a replacement",
+    "website": "https://wallhop.io/",
+    "categories": [
+      "llm"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "wallhop",
+    "logo_url": "https://logo.clearbit.com/wallhop.io",
+    "free_alternatives": []
   },
   {
     "name": "We built a multi",
@@ -4878,6 +6091,68 @@
     "free_tier_verified_date": "2026-08-20"
   },
   {
+    "name": "Wonderhop",
+    "tagline": "A daily game: guess what most people say, or what none do",
+    "website": "https://wonderhop.io/en/",
+    "categories": [
+      "llm"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "wonderhop",
+    "logo_url": "https://logo.clearbit.com/wonderhop.io",
+    "free_alternatives": []
+  },
+  {
+    "name": "Wordminos",
+    "tagline": "Crosswords Meet Dominos",
+    "website": "https://wordminos.com/play-en.html",
+    "categories": [
+      "llm"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "wordminos",
+    "logo_url": "https://logo.clearbit.com/wordminos.com",
+    "free_alternatives": []
+  },
+  {
     "name": "Worldmodels101",
     "tagline": "Free interactive course on world models in AI. Nine visual chapters on predictio",
     "website": "https://worldmodels101.com",
@@ -4944,5 +6219,40 @@
     "free_alternatives": [],
     "status": "active",
     "free_tier_verified_date": "2025-01-01"
+  },
+  {
+    "name": "agent-qa",
+    "tagline": "Self-improving web/mobile QA with memory; provider costs may apply.",
+    "website": "https://vostride.com",
+    "categories": [
+      "code",
+      "agents"
+    ],
+    "tags": [
+      "testing",
+      "cli",
+      "yaml",
+      "mcp"
+    ],
+    "pricing": {
+      "has_free_tier": true,
+      "free_details": "Software is currently free to use. Configure model, browser or device services separately; their charges may apply.",
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "agent-qa",
+    "logo_url": null,
+    "free_alternatives": [],
+    "free_tier_verified_date": null
   }
 ]
